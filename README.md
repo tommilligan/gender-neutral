@@ -1,6 +1,12 @@
 
 # gender-neutral
 
+---
+
+**Deprecation notice:** Work on this fork is now being continued under the module `gender-fluid`, see [tommilligan/gender-fluid](https://github.com/tommilligan/gender-fluid) for latest updates
+
+---
+
 [![npm](https://img.shields.io/npm/v/gender-neutral.svg)](https://www.npmjs.com/package/gender-neutral)
 [![license](https://img.shields.io/github/license/tommilligan/gender-neutral.svg)]()
 
